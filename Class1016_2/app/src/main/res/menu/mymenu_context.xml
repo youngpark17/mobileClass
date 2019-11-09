@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/orange1"
+        android:title="오렌지"/>
+
+    <item android:id="@+id/orange2"
+        android:title="오렌지2"/>
+
+    <item android:id="@+id/orange3"
+        android:title="오렌지3"/>
+
+
+</menu>
