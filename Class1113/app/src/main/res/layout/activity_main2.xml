@@ -14,8 +14,10 @@
 
     <RatingBar
         android:id="@+id/rb1"
-        android:layout_width="250dp"
-        android:layout_height="50dp" />
+        style="@style/Widget.AppCompat.RatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:numStars="5" />
 
     <TextView
         android:id="@+id/tv3"
